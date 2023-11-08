@@ -1,0 +1,44 @@
+.App {
+  text-align: center;
+}
+
+.counter-number{
+    padding-bottom: 570px;
+}
+
+.counter_show{
+  padding-bottom: 10px;
+  font-size: 40px;
+}
+
+.counter {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.button_plus{
+    margin-right: 10px;
+    padding: 10px;
+    background-color: rgb(166, 110, 110);
+}
+.button_minus{
+    margin-right: 10px;
+    padding: 10px;
+    background-color: rgb(139, 139, 195);
+}
+.button_plustwo{
+    margin-right: 10px;
+    padding: 10px;
+    background-color: rgb(114, 152, 72);
+}
+.button_reset{
+    margin-right: 10px;
+    padding: 10px;
+    background-color: rgb(123, 59, 134);
+}
